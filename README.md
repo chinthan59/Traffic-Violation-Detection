@@ -121,15 +121,3 @@ Model paths and other configurations can be found in:
 - `src/detector.py` - Car detection configuration
 - `src/detector2.py` - Bike detection configuration
 
-## 📝 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines if applicable]
-
-## 📧 Contact
-
-[Add contact information if needed]
-
