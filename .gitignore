@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output folders
+folders/
+bike_folders/
+*.jpg
+*.png
+*.jpeg
+!docs/**/*.jpg
+!docs/**/*.png
+
+# Logs
+*.log
+
+# Temporary files
+temp_*
+*.tmp
+
+# CSV output files
+*_detections_comparison.csv
+*_results.csv

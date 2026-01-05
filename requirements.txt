@@ -1,0 +1,26 @@
+# FastAPI and server dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Deep Learning and YOLO
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Scene Text Recognition (PARSeq)
+# If you have a local parseq directory, install it with:
+# pip install -e ./parseq/parseq
+# Otherwise, strhub can be installed from PyPI:
+# pip install strhub
+# Note: The parseq directory in this project contains strhub package
+
+# Additional utilities
+python-dateutil>=2.8.0
+requests>=2.31.0
+
