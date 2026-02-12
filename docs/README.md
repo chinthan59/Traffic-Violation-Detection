@@ -152,3 +152,45 @@ Model paths and other configurations can be found in:
 
 [Add contact information if needed]
 
+
+
+
+Basic Commands
+Process all rows:
+
+bash
+python yolov11_bike_process_csv.py --input bike_images.csv --output results.csv
+Process first 10 rows:
+
+bash
+python yolov11_bike_process_csv.py --input bike_images.csv --output results.csv --max 10
+Process first 50 rows:
+
+bash
+python yolov11_bike_process_csv.py --input bike_images.csv --output results.csv --max 50
+Start from row 11, process 20 rows:
+
+bash
+python yolov11_bike_process_csv.py --input bike_images.csv --output results.csv --start 11 --max 20
+Start from row 100, process all remaining:
+
+bash
+python yolov11_bike_process_csv.py --input bike_images.csv --output results.csv --start 100
+Command Arguments
+--input or -i: Input CSV file path (default: bike_images.csv)
+--output or -o: Output CSV file path (default: bike_yolov11_detection_results.csv)
+--start or -s: Start from row number (1-indexed, default: 1)
+--max or -m: Maximum number of rows to process (default: all)
+Example Use Cases
+Test with 5 images:
+
+bash
+python yolov11_bike_process_csv.py -i bike_images.csv -o test_results.csv -m 5
+Process rows 51-100:
+
+bash
+python yolov11_bike_process_csv.py -i bike_images.csv -o batch2_results.csv -s 51 -m 50
+Process large batch (1000 rows):
+
+bash
+python yolov11_bike_process_csv.py -i bike_images.csv -o large_batch_results.csv -m 1000

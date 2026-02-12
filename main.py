@@ -15,6 +15,7 @@ from PIL import Image
 from src.detector import process_car_image
 from src.detector_new import process_car_image as process_car_image_new
 from src.detector2 import process_bike_image, process_bike_image_with_annotation
+from src.detector2_bike_new import process_bike_image as process_bike_image_new
 
 app = FastAPI()
 
@@ -100,6 +101,86 @@ async def analyze_car_new(file: UploadFile = File(...)):
             shutil.copyfileobj(file.file, buffer)
         
         result = process_car_image_new(temp_path, safe_filename)
+        return result
+    finally:
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
+
+@app.post("/analyze-bike-new/")
+async def analyze_bike_new(file: UploadFile = File(...)):
+    """
+    YOLOv11 Bike Violation Detector V2 (2026-02-10)
+    
+    Uses bike_yolov11_new.pt for enhanced bike violation detection with updated class structure.
+    
+    FEATURES:
+      - Single YOLOv11 model (bike_yolov11_new.pt)
+      - Automatic day/night detection
+      - Adaptive confidence thresholds (0.25 for validation mode)
+      - Helmet violation detection (rider and pillion separately)
+      - Mobile usage detection
+      - Triple riding detection
+      - Wearing helmet verification to filter false positives
+      - Spatial overlap checking with confidence comparison
+      - Vehicle-based spatial grouping for aerial views
+      - Deduplication using IoU and containment checks
+      - PARSeq OCR with 2-line plate support
+    
+    MODEL CLASSES (bike_yolov11_new.pt):
+      Class 0: 6 (IGNORED)
+      Class 1: Number_plate
+      Class 2: mobile_usage
+      Class 3: pillion_not_wearing_helmet
+      Class 4: pillion_wearing_helmet
+      Class 5: rider_not_wearing_helmet
+      Class 6: rider_wearing_helmet
+      Class 7: triple_riding
+      Class 8: vehicle
+    
+    DETECTION STRATEGY:
+      - VALIDATION MODE: Uses low confidence thresholds (0.25) to see all detections
+      - Resolves conflicting detections (wearing vs not wearing)
+      - Groups detections by vehicle for accurate assignment
+      - Deduplicates overlapping detections
+      - Returns both violations and compliance detections
+    
+    VIOLATION TYPES DETECTED:
+      - Rider not wearing helmet
+      - Pillion not wearing helmet
+      - Mobile usage while riding
+      - Triple riding (3+ people on bike)
+    
+    RESPONSE FORMAT:
+      {
+        "status": "success",
+        "timestamp": "2026-02-10T...",
+        "image_id": "BIKE_...",
+        "detections": [
+          {
+            "number_plate": {
+              "plate_number": "KA01AB1234",
+              "plate_bbox": [x1, y1, x2, y2]
+            },
+            "violations": [
+              {
+                "type": "rider_not_wearing_helmet",
+                "confidence": 0.85,
+                "bbox": [x1, y1, x2, y2]
+              }
+            ]
+          }
+        ]
+      }
+    """
+    safe_filename = re.sub(r'[^A-Za-z0-9_.-]', '_', file.filename)
+    temp_dir = tempfile.gettempdir()
+    temp_path = os.path.join(temp_dir, f"temp_{safe_filename}")
+    
+    try:
+        with open(temp_path, "wb") as buffer:
+            shutil.copyfileobj(file.file, buffer)
+        
+        result = process_bike_image_new(temp_path, safe_filename)
         return result
     finally:
         if os.path.exists(temp_path):
