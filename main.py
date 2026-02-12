@@ -13,6 +13,7 @@ import tempfile
 import io
 from PIL import Image
 from src.detector import process_car_image
+from src.detector_new import process_car_image as process_car_image_new
 from src.detector2 import process_bike_image, process_bike_image_with_annotation
 
 app = FastAPI()
@@ -72,13 +73,47 @@ async def analyze_bike(file: UploadFile = File(...)):
             os.remove(temp_path)
 
 
+@app.post("/analyze-car-new/")
+async def analyze_car_new(file: UploadFile = File(...)):
+    """
+    API endpoint for enhanced car detection and violation analysis.
+    
+    Uses dual-model detection (best.pt + car_yolov11_new.pt) with:
+    - Advanced 2-line number plate recognition
+    - No_passenger filtering for false positive reduction
+    - High-precision seatbelt violation detection
+    - ANPR confidence scores
+    
+    Takes an image as input and returns:
+    - Number plate detection and OCR with confidence
+    - Seatbelt violations (driver/passenger not wearing seatbelt)
+    - Bounding boxes for plates and violations
+    
+    Returns JSON response with detections and violations.
+    """
+    safe_filename = re.sub(r'[^A-Za-z0-9_.-]', '_', file.filename)
+    temp_dir = tempfile.gettempdir()
+    temp_path = os.path.join(temp_dir, f"temp_{safe_filename}")
+    
+    try:
+        with open(temp_path, "wb") as buffer:
+            shutil.copyfileobj(file.file, buffer)
+        
+        result = process_car_image_new(temp_path, safe_filename)
+        return result
+    finally:
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
+
+
 @app.get("/")
 async def root():
     """Root endpoint with API information."""
     return {
         "message": "Traffic Violation Detection API",
         "endpoints": {
-            "/analyze-car/": "POST - Analyze car images for seatbelt violations",
+            "/analyze-car/": "POST - Analyze car images for seatbelt violations (standard detector)",
+            "/analyze-car-new/": "POST - Analyze car images with enhanced dual-model detection (best.pt + car_yolov11_new.pt)",
             "/analyze-bike/": "POST - Analyze bike images for helmet and other violations",
             "/analyze-bike-annotated/": "POST - Analyze bike images and return annotated image (uses both bike_old.pt and bike.pt models)"
         }

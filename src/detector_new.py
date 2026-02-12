@@ -40,7 +40,7 @@ INDIAN_STATE_CODES = {
 
 CRNN_MODEL_PATH = "src/fine_tuned_crnn.pth"
 YOLO_MAIN_MODEL_PATH = "models/car.pt"              # Main model (YOLOv8)
-YOLO_SEATBELT_MODEL_PATH = "models/car_yolov11.pt"   # Seatbelt-focused model (YOLOv11 medium)
+YOLO_SEATBELT_MODEL_PATH = "models/car_yolov11_new.pt"     # Seatbelt-focused model (YOLOv11 medium) - Updated model
 
 CROPPED_PLATES_DIR = "folders/cropped_number_plates"
 OFFENSES_DIR = "folders/vehicles_with_offense"
@@ -676,11 +676,11 @@ def process_car_image(file_path: str, filename: str = None, conf_threshold=None,
     if conf_threshold is None:
         if lighting_condition == 'day':
             if view_type == 'aerial':
-                conf_threshold = 0.55  # HIGH threshold for aerial (reduces false positives from glare)
+                conf_threshold = 0.42  # HIGH threshold for aerial (reduces false positives from glare)
             else:
-                conf_threshold = 0.60  # HIGH threshold for side views
+                conf_threshold = 0.46  # HIGH threshold for side views
         else:
-            conf_threshold = 0.50  # Moderate for night (better visibility)
+            conf_threshold = 0.41  # Moderate for night (better visibility)
     
     # Adaptive image size (optimized for YOLO training range)
     if lighting_condition == 'day':
@@ -852,21 +852,26 @@ def process_car_image(file_path: str, filename: str = None, conf_threshold=None,
                         print(f"🚫 Filtered FALSE POSITIVE: {v_type} ({v_conf:.2f}) overlaps with no_passenger ({np_conf:.2f})")
                     break
         
-        # Also check if violation overlaps with any "wearing" detection
-        if not is_false_positive:
-            for wearing in all_wearing_detections:
-                w_bbox = wearing["bbox"]
-                w_conf = wearing["confidence"]
-                
-                # If they overlap AND wearing confidence is comparable or higher
-                if is_overlapping(v_bbox, w_bbox, iou_threshold=0.3):
-                    # CRITICAL: If wearing confidence is within 0.15 of violation confidence,
-                    # favor the "wearing" detection (safer choice)
-                    if w_conf >= (v_conf - 0.15):
-                        is_false_positive = True
-                        if debug:
-                            print(f"🚫 Filtered false positive: {v_type} ({v_conf:.2f}) overlaps with {wearing['type']} ({w_conf:.2f})")
-                        break
+        # DISABLED: "Wearing seatbelt" filtering - causes false negatives with well-trained model
+        # The model is trained on 10K+ images and should be confident in its predictions
+        # Filtering based on "wearing" detections was causing real violations to be missed
+        
+        # # Also check if violation overlaps with any "wearing" detection
+        # if not is_false_positive:
+        #     for wearing in all_wearing_detections:
+        #         w_bbox = wearing["bbox"]
+        #         w_conf = wearing["confidence"]
+        #         
+        #         # If they overlap AND wearing confidence is comparable or higher
+        #         if is_overlapping(v_bbox, w_bbox, iou_threshold=0.3):
+        #             # CRITICAL: If wearing confidence is within 0.15 of violation confidence,
+        #             # favor the "wearing" detection (safer choice)
+        #             # if w_conf >= (v_conf - 0.15):
+        #             if w_conf >= (v_conf + 0.05):
+        #                 is_false_positive = True
+        #                 if debug:
+        #                     print(f"🚫 Filtered false positive: {v_type} ({v_conf:.2f}) overlaps with {wearing['type']} ({w_conf:.2f})")
+        #                 break
         
         if not is_false_positive:
             filtered_violations.append(violation)
