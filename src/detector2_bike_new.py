@@ -441,13 +441,17 @@ def resolve_conflicting_detections(violations, wearing_detections, iou_threshold
             if iou >= iou_threshold:
                 conflict_found = True
                 
-                # Keep the one with higher confidence
-                if v_conf > w_conf:
-                    # Keep violation, mark wearing for removal
+                # Keep the one with significantly higher confidence
+                # BIAS: Favor "wearing" detection (compliance) to reduce false positives
+                # If wearing confidence is within 0.2 of violation confidence, assume wearing
+                if v_conf > (w_conf + 0.2):
+                    # Keep violation ONLY if it is much stronger (> 0.2 higher)
+                    # Mark wearing for removal
                     wearing_to_remove.add(id(wearing))
                     filtered_violations.append(violation)
                 else:
-                    # Keep wearing, skip violation (don't add to filtered_violations)
+                    # Keep wearing (safer bet), skip violation
+                    # This filters false positive violations that have a corresponding wearing detection
                     pass
                 break
         
@@ -784,13 +788,13 @@ def process_bike_image(file_path: str, filename: str = None, conf_threshold=None
     # -----------------------------
     lighting_condition = detect_image_brightness(image_cv)
     
-    # MAXIMUM RECALL MODE: Very low confidence thresholds to detect ALL violations
-    # Prioritizes catching every violation, even at the cost of some false positives
+    # BALANCED MODE: Moderate confidence thresholds to filter weak false positives
+    # Increasing this removes low-confidence detections (noise)
     if conf_threshold is None:
         if lighting_condition == 'day':
-            conf_threshold = 0.15  # VERY LOW threshold for maximum recall
+            conf_threshold = 0.35  # Set to 0.35 to reduce false positives
         else:
-            conf_threshold = 0.20  # Slightly higher for night (noisier conditions)
+            conf_threshold = 0.30  # Set to 0.30 for night conditions
     
     # Adaptive image size
     if lighting_condition == 'day':
@@ -803,8 +807,8 @@ def process_bike_image(file_path: str, filename: str = None, conf_threshold=None
     
     # BALANCED: Deduplication thresholds to remove obvious duplicates
     # But not too aggressive to avoid filtering real violations
-    iou_thresh = 0.25  # Slightly higher to avoid merging distinct violations
-    containment_thresh = 0.65  # Balanced containment threshold
+    iou_thresh = 0.35  # Higher = Stricter deduplication (fewer boxes)
+    containment_thresh = 0.70  # Higher = Stricter containment
     
     if debug:
         print(f"🌞 Lighting: {lighting_condition.upper()} | Conf: {conf_threshold} | Size: {imgsz} | Augment: {augment}")
@@ -866,46 +870,20 @@ def process_bike_image(file_path: str, filename: str = None, conf_threshold=None
             })
 
     # -----------------------------
-    # Step 3: FALSE POSITIVE FILTERING DISABLED FOR VALIDATION
     # -----------------------------
-    # VALIDATION MODE: Skip false positive filtering to see ALL raw detections
-    # This allows manual validation of model output before applying filters
+    # Step 3: FALSE POSITIVE FILTERING (Simplified)
+    # -----------------------------
+    # We now rely on 'resolve_conflicting_detections' (Step 3.5) which is smarter
+    # and handles specific type conflicts (Rider vs Rider) rather than generic overlap.
     
-    # def is_overlapping(box1, box2, iou_threshold=0.3):
-    #     """Check if two boxes overlap significantly."""
-    #     iou = box_iou(box1, box2)
-    #     return iou >= iou_threshold
-    # 
-    # filtered_violations = []
-    # for violation in all_violations:
-    #     v_bbox = violation["bbox"]
-    #     v_conf = violation["confidence"]
-    #     v_type = violation["type"]
-    #     
-    #     # Check if this violation overlaps with any "wearing" detection
-    #     is_false_positive = False
-    #     for wearing in all_wearing_detections:
-    #         w_bbox = wearing["bbox"]
-    #         w_conf = wearing["confidence"]
-    #         
-    #         # If they overlap AND wearing confidence is comparable or higher
-    #         if is_overlapping(v_bbox, w_bbox, iou_threshold=0.3):
-    #             # CRITICAL: If wearing confidence is within 0.15 of violation confidence,
-    #             # favor the "wearing" detection (safer choice)
-    #             if w_conf >= (v_conf - 0.15):
-    #                 is_false_positive = True
-    #                 if debug:
-    #                     print(f"🚫 Filtered false positive: {v_type} ({v_conf:.2f}) overlaps with {wearing['type']} ({w_conf:.2f})")
-    #                 break
-    #     
-    #     if not is_false_positive:
-    #         filtered_violations.append(violation)
-    # 
-    # all_violations = filtered_violations
+    # (Generic overlap filter removed to avoid accidentally filtering valid detections)
     
-    # VALIDATION MODE: Keep all violations without filtering
     if debug:
-        print(f"📊 Raw violations (no filtering): {len(all_violations)}")
+        print(f"� Raw violations: {len(all_violations)}")
+        print(f"📊 Wearing detections: {len(all_wearing_detections)}")
+    
+    if debug:
+        print(f"📊 Filtered violations (after FP check): {len(all_violations)}")
         print(f"📊 Wearing detections: {len(all_wearing_detections)}")
     
     # -----------------------------
