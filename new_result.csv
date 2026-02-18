@@ -1,0 +1,515 @@
+number_plate,image_link,detected_number_plate,rider_violation,pillion_violation,mobile_usage,triple_riding,message
+KA53EM3358,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA53EM3358_1763523746909.jpg,KA53EM3358,rider_not_wearing_helmet (0.43),,,,Violation detected
+KA09JL9336,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09Y9336_1763523164197.jpg,KA09JL9336,,pillion_not_wearing_helmet (0.50),,,Violation detected
+KA09HI9590,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09H9590_1763525249057.jpg,KA09HI9590,rider_not_wearing_helmet (0.68),,,,Violation detected
+KA09HI9590,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09H9590_1763525249057.jpg,KA55H7385,,pillion_not_wearing_helmet (0.59),,,Violation detected
+KA55H7385,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09H9590_1763525249057.jpg,KA09HI9590,rider_not_wearing_helmet (0.68),,,,Violation detected
+KA55H7385,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09H9590_1763525249057.jpg,KA55H7385,,pillion_not_wearing_helmet (0.59),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HP4305_1763524381621.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04HF3425_1763525020599.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EO5107,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01EQ5101_1763525020617.jpg,KA09EO5107,,pillion_not_wearing_helmet (0.36),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HE3610_1763531039872.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EH2076,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EH4076_1763524721120.jpg,KA09EH2076,rider_not_wearing_helmet (0.68),,,,Violation detected
+KA559W1266,e count,,,,,,Download error
+KAOSEE8434,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EE8434_1763522671633.jpg,KA05EE8434,rider_not_wearing_helmet (0.62),,,,Violation detected
+KA09EZ7883,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ4883_1763522097130.jpg,KA09EZ7883,,pillion_not_wearing_helmet (0.73),,,Violation detected
+KA554390,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S4390_1763523505887.jpg,KA554390,,pillion_not_wearing_helmet (0.64),,,Violation detected
+KA09HT1928,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HY1921_1763521709774.jpg,KA09HT1928,rider_not_wearing_helmet (0.50),,,,Violation detected
+A09HS5024,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HS5224_1763522389808.jpg,TS60S5024,rider_not_wearing_helmet (0.68),pillion_not_wearing_helmet (0.60),,,Violation detected
+KA09L1601,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL1601_1763525020527.jpg,KA09L1601,rider_not_wearing_helmet (0.55),pillion_not_wearing_helmet (0.44),,,Violation detected
+KA0OEV9538,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA03EV9538_1763521419504.jpg,KA00EV9538,,pillion_not_wearing_helmet (0.38),,,Violation detected
+KA0ES6991,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01ES2991_1763523164198.jpg,KA0ES6991,rider_not_wearing_helmet (0.72),,,,Violation detected
+KA55E4356,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05EE4356_1763522389719.jpg,KA55E4356,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55J4501_1763525020543.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EL970,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL9706_1763521114949.jpg,KA09E1970,,pillion_not_wearing_helmet (0.44),,,Violation detected
+KASSY5693,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y5693_1763521196661.jpg,,,,,,No violations detected - all riders wearing helmets properly
+409HH8677,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HR8677_1763524381624.jpg,KA49HR8677,rider_not_wearing_helmet (0.61),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01ED2340_1763521805892.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA05EG9119,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EG9119_1763523505972.jpg,KA05EG9119,,,,triple_riding (0.66),Violation detected
+KA09JG900,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JG9003_1763521805979.jpg,KA09J6900,,pillion_not_wearing_helmet (0.32),,,Violation detected
+KA09EZ3986,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ3986_1763523164252.jpg,KA09EZ3986,,,,triple_riding (0.75),Violation detected
+KA09H25171,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HZ5171_1763527203610.jpg,KA09HZ5171,rider_not_wearing_helmet (0.71),,,,Violation detected
+KA09JG9827,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JG9827_1763521196661.jpg,KA09JG9827,rider_not_wearing_helmet (0.72),pillion_not_wearing_helmet (0.73),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HP9191_1763524381813.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA091T7787,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09J7788_1763523506010.jpg,KA09IT7787,,pillion_not_wearing_helmet (0.40),,,Violation detected
+KA09EA8826,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EA8826_1763523991785.jpg,KA09EA8826,rider_not_wearing_helmet (0.73),,,,Violation detected
+KA554899,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55K4899_1763524616734.jpg,KA554899,rider_not_wearing_helmet (0.65),,,,Violation detected
+KA09HM3040,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HM3040_1763522671679.jpg,KA09HM3040,rider_not_wearing_helmet (0.74),pillion_not_wearing_helmet (0.57),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11Q6401_1763521419442.jpg,,,,,,No violations detected - all riders wearing helmets properly
+4107750,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10Q7756_1763523400632.jpg,KA187756,rider_not_wearing_helmet (0.58),pillion_not_wearing_helmet (0.52),,,Violation detected
+KA09D2090,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ED2090_1763521377418.jpg,KA09D2090,rider_not_wearing_helmet (0.44),,,,Violation detected
+KA55EC3232,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55EC3232_1763522582671.jpg,KA55EC3232,rider_not_wearing_helmet (0.61),,,,Violation detected
+KA09JO0318,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JG0318_1763536383594.jpg,KA09JO0318,rider_not_wearing_helmet (0.76),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y5897_1763526201174.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA701E223,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA70E2423_1763523746866.jpg,KA701E223,rider_not_wearing_helmet (0.45),,,,Violation detected
+KA556784,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA51L4784_1763522582694.jpg,KA556784,rider_not_wearing_helmet (0.74),,,,Violation detected
+KA0916200,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JB2008_1763523992167.jpg,KA09I6200,rider_not_wearing_helmet (0.38),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HS5831_1763521806038.jpg,,,pillion_not_wearing_helmet (0.37),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Q6854_1763523746820.jpg,,rider_not_wearing_helmet (0.62); rider_not_wearing_helmet (0.32),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Q6854_1763523746820.jpg,,rider_not_wearing_helmet (0.62); rider_not_wearing_helmet (0.32),,,,Violation detected
+KA09E00603,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ED0603_1763522982175.jpg,KA09EO0603,rider_not_wearing_helmet (0.57),,,,Violation detected
+KA55U3176,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55U3176_1763523746970.jpg,KA55U3176,,pillion_not_wearing_helmet (0.53),,,Violation detected
+KA09HX0398,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HR0398_1763524231943.jpg,KA09HX0398,rider_not_wearing_helmet (0.61),,,,Violation detected
+45U9638,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ2913_1763526991153.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HM7350,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HM7350_1763522035213.jpg,KA09HM7350,rider_not_wearing_helmet (0.77),,,,Violation detected
+09FL3586,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL2586_1763523505991.jpg,KA07EL3586,rider_not_wearing_helmet (0.52),,,,Violation detected
+KA09Y6411,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09Y6411_1763521570133.jpg,KA09Y6411,,pillion_not_wearing_helmet (0.71),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HF5289_1763528844427.jpg,,,,,,No detections found
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45U6050_1763522034938.jpg,,rider_not_wearing_helmet (0.48),,,,Violation detected
+AJ21225,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA42L3256_1763523400348.jpg,AR31235,rider_not_wearing_helmet (0.65),,,,Violation detected
+KA09J035761,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD3576_1763522389719.jpg,AR93O3576,rider_not_wearing_helmet (0.38),pillion_not_wearing_helmet (0.43),,,Violation detected
+KA09HF0834,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HF0834_1763521114945.jpg,KA09HF0834,rider_not_wearing_helmet (0.69),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55U3554_1763525463610.jpg,,,,,,No violations detected - all riders wearing helmets properly
+09ED9000,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ED9000_1763525060771.jpg,AR9ED9000,rider_not_wearing_helmet (0.77),,,,Violation detected
+KA55U07570,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55U4570_1763525248924.jpg,KA55UO7570,rider_not_wearing_helmet (0.77),,,,Violation detected
+A51AB0674,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA51AB0674_1763523400382.jpg,AS14B0674,rider_not_wearing_helmet (0.69),,,,Violation detected
+KA09HA0402,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HA0402_1763522582688.jpg,KA09HA0402,rider_not_wearing_helmet (0.58),,,,Violation detected
+KAZIV9063,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA41V9063_1763523505883.jpg,KA21V9063,rider_not_wearing_helmet (0.57),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02JZ2829_1763524836019.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EV9811,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EV9811_1763522825671.jpg,KA09EV9811,rider_not_wearing_helmet (0.58),,,,Violation detected
+KA11EA9089,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EA9089_1763538194426.jpg,KA11EA9089,,pillion_not_wearing_helmet (0.73),,,Violation detected
+KA09JL900,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JB3001_1763523665722.jpg,SKA09JL900,rider_not_wearing_helmet (0.67),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ3935_1763522389719.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HE9575,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HE0575_1763523164272.jpg,KA09HE9575,rider_not_wearing_helmet (0.73),pillion_not_wearing_helmet (0.52),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01EK1111_1763523400615.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EY5733,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EY5733_1763523991885.jpg,KA09EY5733,rider_not_wearing_helmet (0.71),,,,Violation detected
+KA5555727,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55K5727_1763537093537.jpg,KA55S5727,,pillion_not_wearing_helmet (0.36),,,Violation detected
+KA09HQE376,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HQ4576_1763524381802.jpg,KA09HQ5376,rider_not_wearing_helmet (0.46),,,,Violation detected
+KA09EX416,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04EX4642_1763524835799.jpg,KA09EX416,rider_not_wearing_helmet (0.43),,,,Violation detected
+KA45ECB95,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45EC8995_1763523991765.jpg,KA45EC8925,rider_not_wearing_helmet (0.72),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45EA4666_1763525060768.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA091EL7586,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL3540_1763543013502.jpg,KA091EL7586,rider_not_wearing_helmet (0.64),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55W8301_1763530431683.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09JT5219,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ5411_1763521419488.jpg,KA09JT5219,rider_not_wearing_helmet (0.74),,,,Violation detected
+KA04KD4108,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04KD4108_1763522874272.jpg,KA04KD4108,rider_not_wearing_helmet (0.73),,,,Violation detected
+KA02HT2745,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HT2745_1763548708358.jpg,KA02HT2745,rider_not_wearing_helmet (0.59),,,,Violation detected
+KA09EW5258,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EW5258_1763523164234.jpg,KA09EW5258,rider_not_wearing_helmet (0.76),pillion_not_wearing_helmet (0.44),,,Violation detected
+KA09EW5258,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EW5258_1763523164234.jpg,,,pillion_not_wearing_helmet (0.47),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EW5258_1763523164234.jpg,KA09EW5258,rider_not_wearing_helmet (0.76),pillion_not_wearing_helmet (0.44),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EW5258_1763523164234.jpg,,,pillion_not_wearing_helmet (0.47),,,Violation detected
+HP9082,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HB9082_1763524428250.jpg,HP9082,rider_not_wearing_helmet (0.77),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HS1133_1763538194574.jpg,,rider_not_wearing_helmet (0.32),,,,Violation detected
+AP03HU6560,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HJ4660_1763522389718.jpg,AP03HU6560,rider_not_wearing_helmet (0.78),,,,Violation detected
+KA09HD3748,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HD3748_1763523746934.jpg,KA09HD3748,,pillion_not_wearing_helmet (0.71),,,Violation detected
+KA09JF8502,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JF8502_1763522389770.jpg,KA09JF8502,,pillion_not_wearing_helmet (0.65),,,Violation detected
+KA09JG9827,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JG9827_1763522389734.jpg,KA09JG9827,rider_not_wearing_helmet (0.73),,,,Violation detected
+KA09JR8046,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JB8046_1763523164067.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09ER1604,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ER1604_1763522034958.jpg,KA09ER1604,,pillion_not_wearing_helmet (0.65),,,Violation detected
+KAMEF5185,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EF5185_1763523164066.jpg,KAMEF5185,rider_not_wearing_helmet (0.64),,,,Violation detected
+KA5554670,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S4670_1763521196708.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HJ8908,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ8908_1763548708327.jpg,KA09HJ8908,,pillion_not_wearing_helmet (0.54),,,Violation detected
+KA09E24608,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ4608_1763522982189.jpg,KA09EZ4608,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA55X0687,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X0687_1763524616546.jpg,KA55X0687,rider_not_wearing_helmet (0.62),pillion_not_wearing_helmet (0.47),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55J9074_1763526154619.jpg,,rider_not_wearing_helmet (0.57),,,,Violation detected
+KA10L0067,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10L0067_1763524835770.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EXUECO,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EX1461_1763524381625.jpg,KA09EXJECO,rider_not_wearing_helmet (0.74),pillion_not_wearing_helmet (0.69),,,Violation detected
+KA09HZ4312,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HZ4312_1763522389803.jpg,KA09HZ4312,,pillion_not_wearing_helmet (0.60),,,Violation detected
+KA453414,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45X1414_1763548927835.jpg,KA45B3414,rider_not_wearing_helmet (0.65),,,,Violation detected
+KA091UB973,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD8973_1763521923235.jpg,KA09IU8973,rider_not_wearing_helmet (0.49),,,,Violation detected
+KA0957679,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09S7679_1763521923247.jpg,KA09S7679,rider_not_wearing_helmet (0.63),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04HG9629_1763523400657.jpg,,rider_not_wearing_helmet (0.44),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09H3519_1763548067995.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55S5671,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S5671_1763523665679.jpg,KA55S5671,rider_not_wearing_helmet (0.77),,,,Violation detected
+A09EFQ3426,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EQ3426_1763525119352.jpg,AR9EFQ3426,rider_not_wearing_helmet (0.78),,,,Violation detected
+KA01EF9629,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01EF9629_1763523746819.jpg,KA01EF9629,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HL4429_1763521419467.jpg,KA09HL4429,rider_not_wearing_helmet (0.73),,,,Violation detected
+KA09EO6710,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EQ6710_1763525248988.jpg,KA09EO6710,rider_not_wearing_helmet (0.75),pillion_not_wearing_helmet (0.40),,,Violation detected
+KA09EX4598,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EX4598_1763522982235.jpg,KA09EX4598,rider_not_wearing_helmet (0.76),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HA4963_1763521709717.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA06HK4506,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA06HN7506_1763524083082.jpg,KA06HK4506,rider_not_wearing_helmet (0.73),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JE2175_1763524324214.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KAUTHEND,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EH1330_1763524489618.jpg,RJVERALESSO,rider_not_wearing_helmet (0.66),pillion_not_wearing_helmet (0.44),,,Violation detected
+KA09JG8130,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ8130_1763521196552.jpg,KA09JG8130,,pillion_not_wearing_helmet (0.63),,,Violation detected
+KA034HU40292,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA03HU4092_1763522034938.jpg,KA03HU0292,,pillion_not_wearing_helmet (0.59),,,Violation detected
+KA09Q6984,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09Q6984_1763522671696.jpg,KA09Q6984,rider_not_wearing_helmet (0.62),,,,Violation detected
+KA09JL5351,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA5311_1763523991955.jpg,KA09JL5351,,pillion_not_wearing_helmet (0.60),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA7754_1763523665393.jpg,KA09JC7754,,pillion_not_wearing_helmet (0.60),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA7754_1763523665393.jpg,,rider_not_wearing_helmet (0.46),pillion_not_wearing_helmet (0.45),,,Violation detected
+KA14EY0605,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA14EY0605_1763524231999.jpg,KA14EY0605,rider_not_wearing_helmet (0.42),,,,Violation detected
+KA09HC643,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HC6418_1763525463485.jpg,LA209HC643,rider_not_wearing_helmet (0.75),pillion_not_wearing_helmet (0.67),,,Violation detected
+KA558188,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HA0235_1763524836085.jpg,KA558188,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA09HA0200,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HA0200_1763522302481.jpg,KA09HA0200,,pillion_not_wearing_helmet (0.44),,,Violation detected
+KA09HC1944,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HC4994_1763528027431.jpg,KA09HC1944,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA09HT3136,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HL3136_1763522671646.jpg,KA09HT3136,rider_not_wearing_helmet (0.73),,,,Violation detected
+KA09HD4713,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HL3136_1763522671646.jpg,KA09HT3136,rider_not_wearing_helmet (0.73),,,,Violation detected
+A09HS5024,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HS5224_1763522389808.jpg,TS60S5024,rider_not_wearing_helmet (0.68),pillion_not_wearing_helmet (0.60),,,Violation detected
+KA15V9984,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55V9984_1763521709826.jpg,KA15V9984,rider_not_wearing_helmet (0.78),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HW6686_1763528027412.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HV222,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HV2228_1763524083105.jpg,KA09HY222,rider_not_wearing_helmet (0.75),pillion_not_wearing_helmet (0.71),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55E6681_1763523400571.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA05ES2418,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05ES2441_1763522035225.jpg,KA05ES2418,,pillion_not_wearing_helmet (0.63),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y0604_1763524083041.jpg,KA55Y0604,,pillion_not_wearing_helmet (0.70),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA15R6053_1763522097093.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA101L7639,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10L7639_1763523746801.jpg,,,,,,No detections found
+AP03HU6560,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HJ4660_1763522389718.jpg,AP03HU6560,rider_not_wearing_helmet (0.78),,,,Violation detected
+KA09HT613,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HK6133_1763524083121.jpg,KA09H7613,rider_not_wearing_helmet (0.78),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02HH8115_1763522982224.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09JJ2262,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ2262_1763523164050.jpg,KA09JJ2262,rider_not_wearing_helmet (0.74),,,,Violation detected
+KA555ACTA,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05S5447_1763522389719.jpg,,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA55X2475,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X2475_1763526154614.jpg,,,,,,No detections found
+KA02KN6410,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02KN6400_1763522874265.jpg,KA02KN6410,rider_not_wearing_helmet (0.77),,mobile_usage (0.37),,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45Y0627_1763521377381.jpg,,rider_not_wearing_helmet (0.32),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45Y0627_1763521377381.jpg,,,pillion_not_wearing_helmet (0.51),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45Y0627_1763521377381.jpg,,rider_not_wearing_helmet (0.32),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45Y0627_1763521377381.jpg,,,pillion_not_wearing_helmet (0.51),,,Violation detected
+KA09EL2200,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL2200_1763522825688.jpg,KA09EL2200,,pillion_not_wearing_helmet (0.57),,,Violation detected
+KA09JU1767,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD4767_1763523505969.jpg,KA09JU1767,,pillion_not_wearing_helmet (0.71),,,Violation detected
+JA6404,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02JA6404_1763525463436.jpg,JH6404,,pillion_not_wearing_helmet (0.57),,,Violation detected
+KA09H4723,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HV4723_1763521862863.jpg,KA09H4723,rider_not_wearing_helmet (0.74),pillion_not_wearing_helmet (0.54),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ8963_1763521805944.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KASSY5693,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y5693_1763521196661.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA553974,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55E3974_1763522982288.jpg,KA553974,rider_not_wearing_helmet (0.53),,,,Violation detected
+KA55EA7485,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55EA7485_1763527523444.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09JS8294,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JB8994_1763523270767.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA10R9991,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10W9991_1763523991884.jpg,KA10R9991,,pillion_not_wearing_helmet (0.38),,,Violation detected
+KASSEIC4805,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55EC4855_1763524616734.jpg,KA55EC4805,,pillion_not_wearing_helmet (0.36),,,Violation detected
+KA55E3566Z,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55EB5664_1763525248921.jpg,KA55EJ5662,rider_not_wearing_helmet (0.54),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HA8953_1763521292758.jpg,,rider_not_wearing_helmet (0.44),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EB7427_1763521923279.jpg,,,pillion_not_wearing_helmet (0.61),,,Violation detected
+KA09M6665,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09W6669_1763524231999.jpg,,rider_not_wearing_helmet (0.39),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JC5087_1763523746908.jpg,,rider_not_wearing_helmet (0.56),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55K4701_1763522302523.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HY8030,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HY8030_1763524083040.jpg,KA09HY8030,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA13EV0237,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA13EV0237_1763521862849.jpg,KA13EV0237,rider_not_wearing_helmet (0.69),,,,Violation detected
+KA41EV4852,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA41EV4852_1763523991885.jpg,KA41EV4852,,pillion_not_wearing_helmet (0.73),,,Violation detected
+KA09EL970,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL9706_1763521114949.jpg,KA09E1970,,pillion_not_wearing_helmet (0.44),,,Violation detected
+KA09HC1687,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HC1687_1763522982220.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ES7248_1763525020488.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05LJ1712_1763524083104.jpg,,rider_not_wearing_helmet (0.39),,,,Violation detected
+KA09EE591,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EE5911_1763525248920.jpg,KA09EE591,,,mobile_usage (0.34),,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45K0604_1763522389754.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55L041,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55L0412_1763523164178.jpg,WB45S1421,rider_not_wearing_helmet (0.65),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA41ED3410_1763523400571.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09FS1810,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ES1810_1763524616702.jpg,KA09FS1810,rider_not_wearing_helmet (0.42),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA51AE5827_1763524231972.jpg,,,,,,No violations detected - all riders wearing helmets properly
+A09HB1565,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HB1565_1763524381846.jpg,AR9HB1565,,pillion_not_wearing_helmet (0.65),,,Violation detected
+AIDEC7597,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10EC7597_1763524381830.jpg,TS0ECT5973,rider_not_wearing_helmet (0.36),,,,Violation detected
+AIDEC7597,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10EC7597_1763524381830.jpg,TS0ECT5973,rider_not_wearing_helmet (0.36),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA9202_1763523164272.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA20EG5368_1763523665722.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HL2153,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HL2153_1763525020542.jpg,KA09HL2153,rider_not_wearing_helmet (0.73),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA12J9984_1763522982235.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EM84,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EV4473_1763522671686.jpg,CG409EV41,rider_not_wearing_helmet (0.70),,,,Violation detected
+KA10K6986,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA40H0986_1763522389768.jpg,KA10K6986,rider_not_wearing_helmet (0.63),,,,Violation detected
+KA09HW2146,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HW2146_1763521468491.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09JF9391,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JF8390_1763523164307.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA03EV5280_1763524231923.jpg,,rider_not_wearing_helmet (0.48),,,,Violation detected
+KA55EE89EZ,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HW0461_1763523164235.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09J88168,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JB8168_1763521805996.jpg,KA09JB8168,rider_not_wearing_helmet (0.46),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09X3742_1763524083120.jpg,,,,,,No violations detected - all riders wearing helmets properly
+A09HH2538,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HH2538_1763521862841.jpg,AR9HH2538,rider_not_wearing_helmet (0.75),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA25J5151_1763525951275.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09E24608,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ4608_1763522982189.jpg,KA09EZ4608,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA55J3867,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55J3867_1763525951326.jpg,KA55J3867,,pillion_not_wearing_helmet (0.36),,,Violation detected
+KA09JH6552,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA6552_1763524083106.jpg,KA09JH6552,rider_not_wearing_helmet (0.76),,,,Violation detected
+KA09JB794,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL9193_1763522671428.jpg,KA09J8794,rider_not_wearing_helmet (0.57),,,,Violation detected
+KA09JB794,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL9193_1763522671428.jpg,,rider_not_wearing_helmet (0.52),,,,Violation detected
+KAQDEM610,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL9193_1763522671428.jpg,KA09J8794,rider_not_wearing_helmet (0.57),,,,Violation detected
+KAQDEM610,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL9193_1763522671428.jpg,,rider_not_wearing_helmet (0.52),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EH4170_1763523164068.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA409EE5806,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EE5806_1763524428249.jpg,KA09EE5806,rider_not_wearing_helmet (0.76),,,,Violation detected
+KA557242,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y7242_1763523859374.jpg,KA557242,,pillion_not_wearing_helmet (0.45),,,Violation detected
+KA12L1564,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA12L1564_1763524616702.jpg,KA12L1564,,pillion_not_wearing_helmet (0.68),,,Violation detected
+1A09EU0354,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04EU4344_1763524836041.jpg,KA09EU1354,rider_not_wearing_helmet (0.75),,,,Violation detected
+KA0SHX5698,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HB5698_1763522495974.jpg,KA05HX5698,rider_not_wearing_helmet (0.62),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55R9015_1763525020578.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EG1191_1763525951225.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HE6605,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HE6605_1763523164201.jpg,KA09HE6605,rider_not_wearing_helmet (0.71),pillion_not_wearing_helmet (0.65),,,Violation detected
+KASSLOISI,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55L3151_1763522097140.jpg,KA55L0151,,pillion_not_wearing_helmet (0.37),,,Violation detected
+KA09H03970,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HQ3970_1763521196552.jpg,KA09HO3970,,pillion_not_wearing_helmet (0.73),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ES2213_1763522389791.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA12E7851,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA12E7851_1763522874550.jpg,KA12E7851,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA12E7851_1763522874550.jpg,KA12E7851,rider_not_wearing_helmet (0.71),,,,Violation detected
+KA09HR349,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HR4399_1763524721127.jpg,KA09HR9349,rider_not_wearing_helmet (0.75),,,,Violation detected
+KA01HU5869,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01HU5869_1763525248920.jpg,KA01HU5869,rider_not_wearing_helmet (0.70),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EU2679_1763526378057.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA19EC1013,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA19EC4133_1763525249038.jpg,,,,,,No detections found
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JH0829_1763524427992.jpg,KA09JM0823,rider_not_wearing_helmet (0.73),pillion_not_wearing_helmet (0.69),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02KJ2662_1763524231889.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EG1142_1763523270762.jpg,,rider_not_wearing_helmet (0.54),,,,Violation detected
+KA55H7727,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55H7727_1763523164197.jpg,KA55H7727,rider_not_wearing_helmet (0.52),,,,Violation detected
+KA55X5174,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X5174_1763521709830.jpg,KA55X5174,rider_not_wearing_helmet (0.73),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04EM6092_1763521196619.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55EC2886_1763522302683.jpg,,,,,,No violations detected - all riders wearing helmets properly
+55100255J82,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55J8212_1763522302475.jpg,KA100255382,rider_not_wearing_helmet (0.67),,,,Violation detected
+55R5969,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55R5969_1763521805980.jpg,,,,,triple_riding (0.61),Violation detected
+KIESSSYSTEP,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S5141_1763524083042.jpg,KA55S9122,,pillion_not_wearing_helmet (0.65),,,Violation detected
+KA55U9036,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55U9036_1763525020716.jpg,KA55U9036,rider_not_wearing_helmet (0.66),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EB7427_1763521923279.jpg,,,pillion_not_wearing_helmet (0.61),,,Violation detected
+KA09HX9146,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HX9146_1763524428384.jpg,KA09HX9146,,pillion_not_wearing_helmet (0.64),,,Violation detected
+KA03HU0292,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA03HJ4082_1763522874265.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EG1378,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EG1378_1763522302647.jpg,KA09EG1378,rider_not_wearing_helmet (0.68),pillion_not_wearing_helmet (0.58),,,Violation detected
+551082,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55W1082_1763523164182.jpg,155W1082,rider_not_wearing_helmet (0.68),,,,Violation detected
+KA09JY4941,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA6910_1763527523423.jpg,KA09JY4941,rider_not_wearing_helmet (0.62),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA54L9011_1763521709791.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA29EG8186_1763524083082.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HK5802,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HK5802_1763524616688.jpg,KA09HK5802,rider_not_wearing_helmet (0.63),pillion_not_wearing_helmet (0.56),,,Violation detected
+KA00Q8216,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HQ8216_1763524231893.jpg,,rider_not_wearing_helmet (0.57),,,,Violation detected
+L09EX4,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EK1430_1763521709828.jpg,KA9EX41,rider_not_wearing_helmet (0.51),,,,Violation detected
+KA04KM1672,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04KH1672_1763523164042.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55X0687,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X0687_1763524616546.jpg,KA55X0687,rider_not_wearing_helmet (0.62),pillion_not_wearing_helmet (0.47),,,Violation detected
+KA55EC1218,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55EC1218_1763524947522.jpg,KA55EC1218,,,,triple_riding (0.42),Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EL0852_1763525020681.jpg,KA11EL9852,rider_not_wearing_helmet (0.60),pillion_not_wearing_helmet (0.39),,,Violation detected
+KA55U1271,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55U1271_1763522671414.jpg,KA55U1271,rider_not_wearing_helmet (0.55),,,,Violation detected
+KA09H5505,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EH5905_1763522671412.jpg,KA09H5505,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA09HA0402,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HA0402_1763522582688.jpg,KA09HA0402,rider_not_wearing_helmet (0.58),,,,Violation detected
+KA09JL7097,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JL7091_1763523746929.jpg,KA09JL7097,rider_not_wearing_helmet (0.74),,,,Violation detected
+KA09ET5138,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09E1511_1763524616734.jpg,KA09ET5138,rider_not_wearing_helmet (0.74),,,,Violation detected
+KA09IF3340,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HF3340_1763524616701.jpg,KA09IF3340,rider_not_wearing_helmet (0.60),pillion_not_wearing_helmet (0.39),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HS9589_1763524381629.jpg,,,,,,No violations detected - all riders wearing helmets properly
+TS09HF2343,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HF2043_1763521806039.jpg,KA09HF2043,rider_not_wearing_helmet (0.76),pillion_not_wearing_helmet (0.64),,,Violation detected
+A09H22347,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HZ2347_1763522034945.jpg,AR9HZ2347,,pillion_not_wearing_helmet (0.76),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA53K4491_1763525020655.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA10L1952,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10L1992_1763522671646.jpg,KA10L1952,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA09EZ3480,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ4480_1763521419437.jpg,KA09EZ3480,rider_not_wearing_helmet (0.75),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y7157_1763524083042.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55S9359,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S9359_1763522389719.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EZ7685,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ7685_1763522389774.jpg,KA09EZ7685,rider_not_wearing_helmet (0.68),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55R4137_1763525020526.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09JW1583,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09W1583_1763522874565.jpg,KA09JW1583,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA19ET8848_1763521709810.jpg,KA19ET8848,rider_not_wearing_helmet (0.76),pillion_not_wearing_helmet (0.65),,,Violation detected
+KA551839,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55L8339_1763523505899.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA11EL6953,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EL6953_1763522034938.jpg,KA11EL6953,,pillion_not_wearing_helmet (0.55),,,Violation detected
+KA09EV5131,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EV5131_1763523505949.jpg,KA09EV5131,rider_not_wearing_helmet (0.75),,,,Violation detected
+KA550018,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55U0018_1763521570135.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA04EL9793,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01EL9793_1763522582773.jpg,KA04EL9793,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HK2967_1763522035232.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HV222,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HV2228_1763524083105.jpg,KA09HY222,rider_not_wearing_helmet (0.75),pillion_not_wearing_helmet (0.71),,,Violation detected
+KA10L1952,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10L1992_1763522671646.jpg,KA10L1952,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA09EG3267,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EG0267_1763523746890.jpg,KA09EG3267,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EG0267_1763523746890.jpg,KA09EG3267,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA12L2862_1763521468743.jpg,,rider_not_wearing_helmet (0.56),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA41V9870_1763523400320.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA11EA9089,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EA9089_1763538194426.jpg,KA11EA9089,,pillion_not_wearing_helmet (0.73),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA13EQ9831_1763524616510.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09H100,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HG1100_1763522097088.jpg,PY09HI1100,,,,triple_riding (0.65),Violation detected
+KA09HA0402,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HA0402_1763522582688.jpg,KA09HA0402,rider_not_wearing_helmet (0.58),,,,Violation detected
+KA09HA9643,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HH9643_1763526697295.jpg,KA09HA9643,,pillion_not_wearing_helmet (0.71),,,Violation detected
+KA55V7313,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55V7313_1763522302619.jpg,KA55V7313,rider_not_wearing_helmet (0.75),,,,Violation detected
+11555594,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S5297_1763524427989.jpg,KA55S5297,rider_not_wearing_helmet (0.60),,,,Violation detected
+KA55V2466,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55V2466_1763525315922.jpg,KA55V2466,rider_not_wearing_helmet (0.54),pillion_not_wearing_helmet (0.74),,,Violation detected
+KA09J03126,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD3126_1763526991151.jpg,KA09JO3126,rider_not_wearing_helmet (0.78),,,,Violation detected
+KA09EV3108,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EV0108_1763524836018.jpg,,rider_not_wearing_helmet (0.60),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD6571_1763528027387.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA19ET8848_1763521709810.jpg,KA19ET8848,rider_not_wearing_helmet (0.76),pillion_not_wearing_helmet (0.65),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EM6199_1763522582750.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KE07KG84927,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA03KB4927_1763521292753.jpg,KA07KG4927,rider_not_wearing_helmet (0.51),,,,Violation detected
+KA09J6529,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD6529_1763522389771.jpg,KA09J6529,rider_not_wearing_helmet (0.68),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HD0319_1763522874283.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55L0676_1763524690073.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KN09HING52,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HM5521_1763524083110.jpg,KA09HIN652,rider_not_wearing_helmet (0.76),,,,Violation detected
+KA09JH8650,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JB8500_1763524231890.jpg,KA09JH8650,rider_not_wearing_helmet (0.76),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04EM6092_1763521196619.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11X4236_1763525020633.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55V5420_1763523505899.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ7815_1763523746818.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EG4180_1763528027490.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HHH,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HH1877_1763523400571.jpg,ODHHHH0U57,,pillion_not_wearing_helmet (0.67),,,Violation detected
+KA09HHH,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HH1877_1763523400571.jpg,,rider_not_wearing_helmet (0.40),,,,Violation detected
+AP55K0286,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55K0286_1763521805890.jpg,KA55K0286,rider_not_wearing_helmet (0.60),,,,Violation detected
+KA09EG3267,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EG0267_1763523746890.jpg,KA09EG3267,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EG0267_1763523746890.jpg,KA09EG3267,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA54L9011_1763521709791.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55S6724,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S6724_1763521709849.jpg,KA55S6724,rider_not_wearing_helmet (0.73),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05ET7494_1763523991955.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA05HM5830,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05HM5830_1763523400570.jpg,KA05HM5830,rider_not_wearing_helmet (0.37),,,,Violation detected
+XA41ER394,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA41ER0945_1763524428267.jpg,KA41ER394,rider_not_wearing_helmet (0.62),,,,Violation detected
+AJ21225,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA42L3256_1763523400348.jpg,AR31235,rider_not_wearing_helmet (0.65),,,,Violation detected
+KA09HR034,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HR0347_1763525020634.jpg,SKA09HR034,,pillion_not_wearing_helmet (0.72),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55E9254_1763520926505.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EL0852_1763525020681.jpg,KA11EL9852,rider_not_wearing_helmet (0.60),pillion_not_wearing_helmet (0.39),,,Violation detected
+KA13ET6810,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA13ET6810_1763524231890.jpg,KA13ET6810,rider_not_wearing_helmet (0.49),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01EU4319_1763521806021.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HG0904,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HG0904_1763522825838.jpg,KA09HG0904,,pillion_not_wearing_helmet (0.51),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EP9198_1763521377381.jpg,,rider_not_wearing_helmet (0.34),,mobile_usage (0.43),,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HT0146_1763525119235.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KAD9HE1400,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HE1400_1763523991956.jpg,KA09HE1400,rider_not_wearing_helmet (0.74),,,,Violation detected
+KA09JA4617,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA4117_1763523505901.jpg,KA09JA4617,rider_not_wearing_helmet (0.75),pillion_not_wearing_helmet (0.57),,,Violation detected
+KA09EA8611,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EA8611_1763524947497.jpg,KA09EA8611,rider_not_wearing_helmet (0.75),,,,Violation detected
+KA09H25171,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HZ5171_1763527203610.jpg,KA09HZ5171,rider_not_wearing_helmet (0.71),,,,Violation detected
+KA11EEG6812,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EG6812_1763523991955.jpg,KA11EE6512,,pillion_not_wearing_helmet (0.59),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EY4677_1763523746908.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09JF8699,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JF8699_1763523665793.jpg,KA09JF8699,rider_not_wearing_helmet (0.75),pillion_not_wearing_helmet (0.46),,,Violation detected
+KAOZHO7102,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02HQ7102_1763521377485.jpg,KA02HO7102,rider_not_wearing_helmet (0.74),pillion_not_wearing_helmet (0.46),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HS8640_1763548067909.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HL9970,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HL9990_1763526154571.jpg,KA09HL9970,rider_not_wearing_helmet (0.76),pillion_not_wearing_helmet (0.39),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04JS4400_1763521569910.jpg,,rider_not_wearing_helmet (0.55),,,,Violation detected
+KA09JH6746,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JG6746_1763522582670.jpg,KA09JH6746,rider_not_wearing_helmet (0.57),,,,Violation detected
+KA09H4723,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HV4723_1763521862863.jpg,KA09H4723,rider_not_wearing_helmet (0.74),pillion_not_wearing_helmet (0.54),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HD0616_1763522302710.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02KB8361_1763524381621.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA10EA4141,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10EA4141_1763521709934.jpg,KA10EA4141,rider_not_wearing_helmet (0.79),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA13ET3313_1763523746890.jpg,GAEETKISTORY,rider_not_wearing_helmet (0.75),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA13ET3313_1763523746890.jpg,SKL03NF3032,,pillion_not_wearing_helmet (0.69),,,Violation detected
+KA09H18815,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HT8815_1763522982322.jpg,KA09HI8815,rider_not_wearing_helmet (0.51),,,,Violation detected
+KA05UX4806,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09X4806_1763525060754.jpg,KA05UX4806,,pillion_not_wearing_helmet (0.63),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HV7542_1763522825670.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HR6460_1763526991152.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA13EV023,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA13EV0237_1763521468468.jpg,KA13EV023,rider_not_wearing_helmet (0.32),,,,Violation detected
+KA09H7073,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HL7073_1763521570221.jpg,KA09H7073,,pillion_not_wearing_helmet (0.43),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EG0101_1763521862838.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EZ7883,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ4883_1763522097130.jpg,KA09EZ7883,,pillion_not_wearing_helmet (0.73),,,Violation detected
+KA55EA8289,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55EA8289_1763523400572.jpg,KA55EA8289,rider_not_wearing_helmet (0.77),,,,Violation detected
+KA55Y1412,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y1412_1763523506026.jpg,KA55Y1412,rider_not_wearing_helmet (0.65),pillion_not_wearing_helmet (0.53),,,Violation detected
+KA55EC2083,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55EC2083_1763535620266.jpg,KA55EC2083,rider_not_wearing_helmet (0.65),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HP9191_1763524381813.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55J9671_1763523665760.jpg,,rider_not_wearing_helmet (0.33),,,,Violation detected
+KA09JD2820,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD2820_1763523665390.jpg,KA09JD2820,rider_not_wearing_helmet (0.47),,,,Violation detected
+KA09JJ2098,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ2988_1763525020700.jpg,KA09JJ2098,rider_not_wearing_helmet (0.74),,,,Violation detected
+KA09JF8657,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JF8652_1763524083104.jpg,KA09JF8657,,pillion_not_wearing_helmet (0.55),,,Violation detected
+KA4594,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EM7497_1763523400398.jpg,WBWME3141,rider_not_wearing_helmet (0.42),,,,Violation detected
+7002HG447,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02HG4478_1763521468789.jpg,,rider_not_wearing_helmet (0.64),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HD0600_1763524690221.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45R8969_1763525248863.jpg,,rider_not_wearing_helmet (0.48),,,,Violation detected
+HP42222,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HP4322_1763523505906.jpg,KA09HP2222,rider_not_wearing_helmet (0.71),,,,Violation detected
+KA09H2089,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HW2089_1763524616800.jpg,KA09H2089,,pillion_not_wearing_helmet (0.51),,,Violation detected
+KA01HU5869,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01HU5869_1763525248920.jpg,KA01HU5869,rider_not_wearing_helmet (0.70),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X4643_1763522389718.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HG8627,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HG8627_1763525020584.jpg,KA09HG8627,,pillion_not_wearing_helmet (0.50),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09H5511_1763524616771.jpg,KA05H2511,rider_not_wearing_helmet (0.62),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HC8444_1763523270767.jpg,,rider_not_wearing_helmet (0.67),,,,Violation detected
+KA559W1266,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55W1266_1763523505899.jpg,KA55W1266,rider_not_wearing_helmet (0.44),pillion_not_wearing_helmet (0.72),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EE4293_1763521292753.jpg,,rider_not_wearing_helmet (0.49),,,,Violation detected
+KA03HC7891,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HC7891_1763523505991.jpg,KA03HC7891,rider_not_wearing_helmet (0.42),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HC7891_1763523505991.jpg,KA03HC7891,rider_not_wearing_helmet (0.42),,,,Violation detected
+KAO9JF0504,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA5004_1763522982255.jpg,KA09JF0504,rider_not_wearing_helmet (0.73),,,,Violation detected
+KA11EL6953,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EL6953_1763522034938.jpg,KA11EL6953,,pillion_not_wearing_helmet (0.55),,,Violation detected
+KA09HN7306,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HN7306_1763526991109.jpg,KA09HN7306,rider_not_wearing_helmet (0.72),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ7815_1763523746818.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55X2670,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X2670_1763523746989.jpg,KA55X2670,rider_not_wearing_helmet (0.34),pillion_not_wearing_helmet (0.53),,,Violation detected
+KA09EV374,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EV0742_1763521709791.jpg,KA09EV374,rider_not_wearing_helmet (0.72),,,,Violation detected
+KA55Q9257,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Q9257_1763524381838.jpg,KA55Q9257,rider_not_wearing_helmet (0.38),,,,Violation detected
+CA6911E2838,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01HF2824_1763524835791.jpg,CG6911F2838,rider_not_wearing_helmet (0.79),pillion_not_wearing_helmet (0.44),,,Violation detected
+KA09HY3555,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HY3555_1763548708394.jpg,KA09HY3555,,,,triple_riding (0.75),Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EE5511_1763522982322.jpg,,rider_not_wearing_helmet (0.68),,,,Violation detected
+KA09HV0909,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HV0909_1763524083105.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA54RUZ37,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA54R0437_1763521923232.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL4111_1763538968741.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09JS2249,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA2249_1763525119370.jpg,KA09JS2249,rider_not_wearing_helmet (0.67),pillion_not_wearing_helmet (0.58),,,Violation detected
+KA09HT613,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HK6133_1763524083121.jpg,KA09H7613,rider_not_wearing_helmet (0.78),,,,Violation detected
+L09EX4,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EK1430_1763521709828.jpg,KA9EX41,rider_not_wearing_helmet (0.51),,,,Violation detected
+KA17W3739,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA17W3739_1763522862999.jpg,KA17W3739,,pillion_not_wearing_helmet (0.57),,,Violation detected
+KA09Y6411,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09Y6411_1763521570133.jpg,KA09Y6411,,pillion_not_wearing_helmet (0.71),,,Violation detected
+AP55K0286,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55K0286_1763521805890.jpg,KA55K0286,rider_not_wearing_helmet (0.60),,,,Violation detected
+KA09JY8844,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JB8844_1763522035265.jpg,KA09JY8844,rider_not_wearing_helmet (0.64),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55U4754_1763521419460.jpg,,,,,,No violations detected - all riders wearing helmets properly
+1005511115,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55H4188_1763524489537.jpg,,rider_not_wearing_helmet (0.64),,,,Violation detected
+KA09HC1687,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HC1687_1763522982220.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HZ8057,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HZ8052_1763523164197.jpg,KA09HZ8057,rider_not_wearing_helmet (0.72),,,,Violation detected
+KA09HZ8057,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HZ8052_1763523164197.jpg,,rider_not_wearing_helmet (0.48),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HZ8052_1763523164197.jpg,KA09HZ8057,rider_not_wearing_helmet (0.72),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HZ8052_1763523164197.jpg,,rider_not_wearing_helmet (0.48),,,,Violation detected
+KA539FH1814,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA53EH1814_1763544463424.jpg,KA539FH183,rider_not_wearing_helmet (0.49),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01V5381_1763524082976.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09ER1604,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ER1604_1763522034958.jpg,KA09ER1604,,pillion_not_wearing_helmet (0.65),,,Violation detected
+KA09JI4825,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ4625_1763522389754.jpg,KA09JI4825,rider_not_wearing_helmet (0.69),,,,Violation detected
+KA4503330,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45Q3330_1763522389756.jpg,BR44SO3330,rider_not_wearing_helmet (0.60),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55U1302_1763521805892.jpg,,,,,,No violations detected - all riders wearing helmets properly
+A09HH2538,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HH2538_1763521862841.jpg,AR9HH2538,rider_not_wearing_helmet (0.75),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HK9715_1763523400555.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55V9884,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55V9884_1763525951013.jpg,KA55V9884,rider_not_wearing_helmet (0.45),,,,Violation detected
+KA55EC3232,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55EC3232_1763522582671.jpg,KA55EC3232,rider_not_wearing_helmet (0.61),,,,Violation detected
+ED,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EH3200_1763523991741.jpg,,rider_not_wearing_helmet (0.66),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HB4339_1763522198838.jpg,,rider_not_wearing_helmet (0.41),,,,Violation detected
+KA55X5286,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X5286_1763521709828.jpg,KA55X5286,,pillion_not_wearing_helmet (0.57),,,Violation detected
+KA557564,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05U7564_1763522389718.jpg,KA55U7564,rider_not_wearing_helmet (0.35),,,,Violation detected
+KA11EL9852,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EU9610_1763538194555.jpg,KA11EL9852,,,,triple_riding (0.53),Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL2323_1763524083110.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09JA4617,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA4117_1763523505901.jpg,KA09JA4617,rider_not_wearing_helmet (0.75),pillion_not_wearing_helmet (0.57),,,Violation detected
+KA09JG8130,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ8130_1763521196552.jpg,KA09JG8130,,pillion_not_wearing_helmet (0.63),,,Violation detected
+A09Q1145,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EQ1145_1763524721119.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02JS3050_1763525249017.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA3344397,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA53Q1397_1763523400617.jpg,KA33A4397,rider_not_wearing_helmet (0.44),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA53Q1397_1763523400617.jpg,KA33A4397,rider_not_wearing_helmet (0.44),,,,Violation detected
+A09JA5736,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA5736_1763543708445.jpg,AR93A5736,,pillion_not_wearing_helmet (0.50),,,Violation detected
+KA55S9441,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S9441_1763528027298.jpg,KA55S9441,,pillion_not_wearing_helmet (0.58); pillion_not_wearing_helmet (0.37),,,Violation detected
+KA09ER4768,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ER4778_1763523991741.jpg,KA09ER4768,rider_not_wearing_helmet (0.80),pillion_not_wearing_helmet (0.74),,,Violation detected
+KA05KD2408,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05KD2408_1763523665383.jpg,KA05KD2408,,pillion_not_wearing_helmet (0.40),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA45R8969_1763525248863.jpg,,rider_not_wearing_helmet (0.48),,,,Violation detected
+K4091N5794,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA5794_1763521923133.jpg,,,,,,No violations detected - all riders wearing helmets properly
+VA557613,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S7613_1763525060756.jpg,SK557613,,pillion_not_wearing_helmet (0.63),,,Violation detected
+KA11EL5089,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EL5089_1763524083066.jpg,KA11EL5089,rider_not_wearing_helmet (0.40),,,,Violation detected
+KA09C0297,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HC0297_1763525248917.jpg,KA09C0297,,,mobile_usage (0.59),,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HD9299_1763523746820.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HR034,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HR0347_1763525020634.jpg,SKA09HR034,,pillion_not_wearing_helmet (0.72),,,Violation detected
+KA09EL6542,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL6542_1763522097070.jpg,KA09EL6542,rider_not_wearing_helmet (0.36),,,,Violation detected
+KA55X7371,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X7371_1763523400570.jpg,KA55X7371,rider_not_wearing_helmet (0.74),,,,Violation detected
+KA35R6150,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA35R6150_1763538968741.jpg,KA35R6150,,pillion_not_wearing_helmet (0.45),,,Violation detected
+KADSHEAD,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA35R6150_1763538968741.jpg,KA35R6150,,pillion_not_wearing_helmet (0.45),,,Violation detected
+KA51HT3208,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA51HT3208_1763523991859.jpg,KA51HT3208,,pillion_not_wearing_helmet (0.64),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01EU4319_1763521806021.jpg,,,,,,No violations detected - all riders wearing helmets properly
+CINXUSRKDAMA,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA04HH4411_1763522671650.jpg,ARKRO2HX2,rider_not_wearing_helmet (0.59),pillion_not_wearing_helmet (0.52),,,Violation detected
+10051251,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01EA1551_1763525020681.jpg,KA051251,rider_not_wearing_helmet (0.65),pillion_not_wearing_helmet (0.71),,,Violation detected
+JA6404,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02JA6404_1763525463436.jpg,JH6404,,pillion_not_wearing_helmet (0.57),,,Violation detected
+KA09JL900,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JB3001_1763523665722.jpg,SKA09JL900,rider_not_wearing_helmet (0.67),,,,Violation detected
+KA10S6139,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10S6139_1763522389718.jpg,KA10S6139,rider_not_wearing_helmet (0.33),pillion_not_wearing_helmet (0.32),,,Violation detected
+KA09F5588,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HF5588_1763522495486.jpg,KA09F5588,rider_not_wearing_helmet (0.56),,,,Violation detected
+CA6911E2838,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01HF2824_1763524835791.jpg,CG6911F2838,rider_not_wearing_helmet (0.79),pillion_not_wearing_helmet (0.44),,,Violation detected
+KA53X3082,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA53X3082_1763521709791.jpg,KA53X3082,rider_not_wearing_helmet (0.74),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HP0271_1763524083041.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55L7327,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55L7327_1763524083121.jpg,KA55L7327,,pillion_not_wearing_helmet (0.37),,,Violation detected
+KA55H7727,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55H7727_1763523164197.jpg,KA55H7727,rider_not_wearing_helmet (0.52),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HK8585_1763525463547.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA13X421,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA13X4216_1763525249109.jpg,KA13X4211,rider_not_wearing_helmet (0.71),,,,Violation detected
+KAO9ESP247,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ES9947_1763523665395.jpg,KA09E5247,rider_not_wearing_helmet (0.71),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ES5130_1763521292752.jpg,,,,,,No violations detected - all riders wearing helmets properly
+7588,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA06HA7588_1763521923133.jpg,AREMA7588,rider_not_wearing_helmet (0.62),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EY5043_1763523747060.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD2213_1763522982289.jpg,,,,,,No violations detected - all riders wearing helmets properly
+55R5969,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55R5969_1763521805980.jpg,,,,,triple_riding (0.61),Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55V8076_1763522582708.jpg,,,,,,No violations detected - all riders wearing helmets properly
+55R5969,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55R5969_1763521805980.jpg,,,,,triple_riding (0.61),Violation detected
+KA55E8924,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55E8924_1763521570134.jpg,KA55E8924,rider_not_wearing_helmet (0.76),,,,Violation detected
+KA55S6724,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55S6724_1763521709849.jpg,KA55S6724,rider_not_wearing_helmet (0.73),,,,Violation detected
+XA09HB214,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HB2144_1763523505973.jpg,KA09H8214,rider_not_wearing_helmet (0.54),,,,Violation detected
+KA09HL9780,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HL4780_1763521419487.jpg,KA09HL9780,rider_not_wearing_helmet (0.62),pillion_not_wearing_helmet (0.50),,,Violation detected
+KA549151,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA54H9911_1763522302642.jpg,KA54IH9151,rider_not_wearing_helmet (0.67),,,,Violation detected
+KA09EB822,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EB8228_1763523400615.jpg,KA09E8822,rider_not_wearing_helmet (0.65),,,,Violation detected
+K109HM6577,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HM5571_1763526991151.jpg,KA09HM6577,,pillion_not_wearing_helmet (0.60),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JJ6489_1763523991784.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HE3237_1763522874546.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55V9067,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y8067_1763524947493.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09ED6736,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ED6736_1763524836039.jpg,KA09ED6736,rider_not_wearing_helmet (0.54),,,,Violation detected
+KA06HB2186,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA06HB2186_1763523164032.jpg,KA06HB2186,rider_not_wearing_helmet (0.42),,,,Violation detected
+KA05HV305,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HV3052_1763524381813.jpg,,,,,,No detections found
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EN5432_1763523505949.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EL9381,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EL4381_1763525248964.jpg,KA09EL9381,rider_not_wearing_helmet (0.77),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EZ2423_1763521377487.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y8917_1763521419504.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EG2100_1763524083109.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA01JQ0173_1763524381621.jpg,,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA10EE2107,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10EE2107_1763525020579.jpg,KA10EE2107,rider_not_wearing_helmet (0.62),pillion_not_wearing_helmet (0.47),,,Violation detected
+KA02EF3912,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA02EF3912_1763530431606.jpg,KA02EF3912,rider_not_wearing_helmet (0.75),,,,Violation detected
+KA09P6920,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EP6920_1763525020566.jpg,KA09P6920,rider_not_wearing_helmet (0.46),,,,Violation detected
+KA09HE6605,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HE6605_1763523164201.jpg,KA09HE6605,rider_not_wearing_helmet (0.71),pillion_not_wearing_helmet (0.65),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EB3062_1763523859380.jpg,,rider_not_wearing_helmet (0.63),,,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HR1799_1763523992194.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EK3909,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EW3809_1763525353287.jpg,KA09EK3909,rider_not_wearing_helmet (0.67),,,,Violation detected
+KA05ES2418,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05ES2441_1763522035225.jpg,KA05ES2418,,pillion_not_wearing_helmet (0.63),,,Violation detected
+KA55V9067,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55Y8067_1763524947493.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA55X9194,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X9194_1763522825828.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09J4487,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09S4487_1763524836017.jpg,KA09J4487,rider_not_wearing_helmet (0.78),,,,Violation detected
+KA09J01175,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JA1175_1763521468476.jpg,KA09JO1175,rider_not_wearing_helmet (0.67),,,,Violation detected
+KA55L7633,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55L7633_1763523665648.jpg,KA55L7633,,pillion_not_wearing_helmet (0.69),,,Violation detected
+KA09HU5881,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HU5881_1763524381818.jpg,KA09HU5881,,pillion_not_wearing_helmet (0.53),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09ER5758_1763524231890.jpg,,,,,,No violations detected - all riders wearing helmets properly
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD8444_1763524231936.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09HU707,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HU7078_1763524947509.jpg,,,,,,No detections found
+KA09EF5064,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EF5561_1763523400675.jpg,KA09EF5064,rider_not_wearing_helmet (0.67),pillion_not_wearing_helmet (0.44),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10L4420_1763538968718.jpg,,rider_not_wearing_helmet (0.32),,,,Violation detected
+KA09E18947,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EV8947_1763525248989.jpg,KA09EI8947,rider_not_wearing_helmet (0.73),,,,Violation detected
+KA09HY3555,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HY3555_1763548708394.jpg,KA09HY3555,,,,triple_riding (0.75),Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EU0623_1763524381830.jpg,,,,,,No violations detected - all riders wearing helmets properly
+KA09EXUECO,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EX1461_1763524381625.jpg,KA09EXJECO,rider_not_wearing_helmet (0.74),pillion_not_wearing_helmet (0.69),,,Violation detected
+1.86E+13,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09EU8214_1763523991763.jpg,SK10ST0R10,rider_not_wearing_helmet (0.64),pillion_not_wearing_helmet (0.51),,,Violation detected
+KA09JF8699,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JF8699_1763523665793.jpg,KA09JF8699,rider_not_wearing_helmet (0.75),pillion_not_wearing_helmet (0.46),,,Violation detected
+KA05KF4550,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA05KF4550_1763521292758.jpg,KA05KF4550,rider_not_wearing_helmet (0.66),,,,Violation detected
+KA10V2234,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA10V2234_1763524428304.jpg,KA10V2234,,pillion_not_wearing_helmet (0.62),,,Violation detected
+KA55X2670,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55X2670_1763523746989.jpg,KA55X2670,rider_not_wearing_helmet (0.34),pillion_not_wearing_helmet (0.53),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09HC7007_1763524616701.jpg,,rider_not_wearing_helmet (0.75),,,,Violation detected
+KA09JB5599,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JB5599_1763524083105.jpg,KA09JB5599,rider_not_wearing_helmet (0.73),,,,Violation detected
+KA09JU1767,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JD4767_1763523505969.jpg,KA09JU1767,,pillion_not_wearing_helmet (0.71),,,Violation detected
+KA55V6742,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA55V6742_1763530343622.jpg,KA55V6742,rider_not_wearing_helmet (0.41),,,,Violation detected
+KL09JH4499,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JH4499_1763524616700.jpg,KL09JH4499,,pillion_not_wearing_helmet (0.59),,,Violation detected
+KA09JE1469,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA09JE1465_1763523400367.jpg,KA09JE1469,rider_not_wearing_helmet (0.74),pillion_not_wearing_helmet (0.37),,,Violation detected
+,http://203.201.61.110:7274/violation_images/2025/Nov/19/KA11EL0852_1763525020681.jpg,KA11EL9852,rider_not_wearing_helmet (0.60),pillion_not_wearing_helmet (0.39),,,Violation detected

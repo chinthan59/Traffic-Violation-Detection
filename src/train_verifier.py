@@ -51,10 +51,12 @@ def train_resnet_classifier(data_dir, output_model_path='models/violation_verifi
     print(f"Classes: {class_names}")
 
     model_ft = models.resnet50(pretrained=True)
+    
+    # Modify the classifier output for ResNet50
     num_ftrs = model_ft.fc.in_features
     # Determine safe/violation mapping based on folder names
-    # Alphabetical order: safe=0, violation=1 (usually)
     model_ft.fc = nn.Linear(num_ftrs, len(class_names))
+    
     model_ft = model_ft.to(device)
 
     criterion = nn.CrossEntropyLoss()
@@ -121,20 +123,20 @@ def load_verifier(model_path='models/violation_verifier.pth'):
     """Load the trained ResNet50 verifier model."""
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     
-    # Load model architecture
+    # Load model architecture (ResNet50)
     model = models.resnet50(pretrained=False)
-    # Binary classification: 0=Safe, 1=Violation
     num_ftrs = model.fc.in_features
+    # Binary classification: 0=Safe, 1=Violation
     model.fc = nn.Linear(num_ftrs, 2)
     
     try:
         model.load_state_dict(torch.load(model_path, map_location=device))
         model = model.to(device)
         model.eval()
-        print(f"✅ Loaded verifier model from {model_path}")
+        print(f"✅ Loaded verifier model (ResNet50) from {model_path}")
         return model, device
     except Exception as e:
-        print(f"❌ Failed to load model from {model_path}: {e}")
+        print(f"❌ Failed to load model: {e}")
         return None, None
 
 def verify_image(model, device, image_path):
@@ -156,20 +158,25 @@ def verify_image(model, device, image_path):
     try:
         image = Image.open(image_path).convert('RGB')
         input_tensor = transform(image).unsqueeze(0).to(device)
-        
+       # Predict
         with torch.no_grad():
             outputs = model(input_tensor)
             probs = torch.nn.functional.softmax(outputs, dim=1)
-            confidence, preds = torch.max(probs, 1)
             
-        class_idx = preds.item()
-        conf = confidence.item()
+        safe_prob = probs[0][0].item()
+        violation_prob = probs[0][1].item()
         
-        # Mapping: 0 should be 'safe', 1 should be 'violation' (Check your training mapping!)
-        # Assuming alphabetical order: safe=0, violation=1
-        label = "violation" if class_idx == 1 else "safe"
+        idx = torch.argmax(probs).item()
+        confidence = torch.max(probs).item()
         
-        return label, conf
+        # 0 = safe, 1 = violation
+        label = 'VIOLATION' if idx == 1 else 'SAFE'
+        
+        print(f"\n🔍 Image: {os.path.basename(image_path)}")
+        print(f"📊 Probabilities: Safe={safe_prob:.4f}, Violation={violation_prob:.4f}")
+        print(f"✅ Prediction: {label} ({confidence:.4f})\n")
+        
+        return label, confidence
         
     except Exception as e:
         print(f"Error processing {image_path}: {e}")
